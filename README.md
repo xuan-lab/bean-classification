@@ -5,7 +5,7 @@
 ## 项目结构
 
 ```
-├── datafrom HuggingFace                     # 原始训练用数据集
+├── datafrom HuggingFace     # 原始训练用数据集
 ├── bean_use.py              # 用于图像预测的主脚本
 ├── beans_classifier.pth     # 训练好的模型权重文件
 ├── resnet18-f37072fd.pth    # ResNet18 预训练模型权重
